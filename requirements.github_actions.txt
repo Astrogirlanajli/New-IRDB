@@ -1,0 +1,13 @@
+pytest
+numpy
+matplotlib
+astropy
+pyyaml
+pysftp
+paramiko<=3.5.1
+photutils
+scopesim
+scopesim_templates
+jupytext
+ipykernel
+nbconvert
